@@ -1,0 +1,13 @@
+{
+  "name": "shamirs-secret-sharing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "big-integer": "^1.6.51",
+    "mathjs": "^12.1.0"
+  }
+}
